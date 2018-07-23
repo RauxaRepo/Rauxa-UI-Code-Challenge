@@ -62,5 +62,7 @@ Coding Challenge
 ----------------
 
 [Coding Guidelines can be found here.](coding_guidelines.md)
+
 [FE Coding Challenge can be found here.](fe_coding_challenge.md)
+
 [3D Coding Challenge can be found here.](3D_coding_challenge.md)
